@@ -24,7 +24,7 @@ particles = {
     'Muonneutrino': {'mass': 0.17, 'unit': 'MeV/c²', 'charge': 0, 'spin': 1/2, 'family': 'Lepton', 'binary': "00010000", 'color_name' : '\033[95mMuonneutrino\033[0m', 'color_binary' : '\033[95m00010000\033[0m'},
     'Tauneutrino': {'mass': 18.2, 'unit': 'MeV/c²', 'charge': 0, 'spin': 1/2, 'family': 'Lepton', 'binary': "00010001", 'color_name' : '\033[95mTauneutrino\033[0m', 'color_binary' : '\033[95m00010001\033[0m'},
     
-    # Antileptons (CORREGIDOS)
+    # Antileptons
     'Positron': {'mass': 0.511, 'unit': 'MeV/c²', 'charge': 1, 'spin': 1/2, 'family': 'Antilepton', 'binary': "00010010", 'color_name' : '\033[96mPositron\033[0m', 'color_binary' : '\033[96m00010010\033[0m'},
     'Antimuon': {'mass': 105.7, 'unit': 'MeV/c²', 'charge': 1, 'spin': 1/2, 'family': 'Antilepton', 'binary': "00010011", 'color_name' : '\033[96mAntimuon\033[0m', 'color_binary' : '\033[96m00010011\033[0m'},
     'Antitau': {'mass': 1.7768, 'unit': 'GeV/c²', 'charge': 1, 'spin': 1/2, 'family': 'Antilepton', 'binary': "00010100", 'color_name' : '\033[96mAntitau\033[0m', 'color_binary' : '\033[96m00010100\033[0m'},
